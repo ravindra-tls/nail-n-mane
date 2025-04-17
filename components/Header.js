@@ -15,7 +15,7 @@ export default function Header() {
           <Link href="#faq" className="hover:text-teal-600">FAQ</Link>
         </nav>
         <a
-          href="https://yourshopifystore.myshopify.com/cart/123456789:1"
+          href="https://theayurvedaexperience.com/cart/43804989456561:1"
           className="bg-teal-600 text-white px-4 py-2 rounded font-medium hover:bg-teal-700 text-sm"
         >
           Buy Now
