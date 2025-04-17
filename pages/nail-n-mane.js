@@ -1,5 +1,3 @@
-// pages/nail-n-mane.js
-
 import Head from 'next/head';
 import Header from '../components/Header';
 import HeroSection from '../components/HeroSection';
@@ -19,7 +17,10 @@ export default function NailNManePage() {
     <>
       <Head>
         <title>Nail n Mane – Ayurvedic Hair & Nail Supplement</title>
-        <meta name="description" content="Clinically tested supplement for stronger hair and nails." />
+        <meta
+          name="description"
+          content="Clinically tested supplement for stronger hair and nails."
+        />
       </Head>
       <Header />
       <main>
@@ -49,4 +50,3 @@ export default function NailNManePage() {
     </>
   );
 }
-
